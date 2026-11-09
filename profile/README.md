@@ -22,6 +22,7 @@ AI is voor ons een hulpmiddel, geen doel op zich. De mens staat centraal: AI rek
 ### Onze principes
 
 - **De mens oordeelt, AI rekent**: technologie dient de mens, niet andersom. AI rekent en voorspelt; de mens weegt, kiest en draagt de verantwoordelijkheid.
+- **We creëren met het einddoel in zicht**: Zo vroeg mogelijk in het traject maken we demo's, prototypes en pilots, zodat iedereen ziet waar we naartoe werken. Zo praten we niet over een abstract plan, maar over iets wat je kunt zien en uitproberen. Wie het einddoel voor zich ziet, kan dat verhaal als ambassadeur ook aan de eigen collega's en peers vertellen.
 - **De mens is forward deployed engineer.**  Een goede AI-oplossing begint bij het probleem, niet bij de techniek: we gaan zo dicht op jouw werkelijkheid zitten dat we de echte knelpunten snappen vóór we iets bouwen. En we werken mét AI in meerdere rollen tegelijk (opdrachtgever, architect, beoordelaar én leerling), zodat het oordeel bij de mens blijft en er werkend gereedschap overblijft.
 - **Eerlijk over grenzen en twijfel**: we zijn transparant over wat AI wel én niet kan. Niemand weet zeker waar AI ons brengt, dus doen we niet alsof.
 - **Haast je langzaam (Festina Lente)**: bewust vertragen om te begrijpen wat we doen en wat de AI doet, is per saldo sneller en veiliger. Groeit dat vertrouwen, dan kan AI gaandeweg meer doen.
